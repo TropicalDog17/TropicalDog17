@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TropicalDog17
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology.
+- 🌱 I’m currently learning CS major at Hanoi University of Science and Technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
           + via Facebook: facebook.com/td1267
