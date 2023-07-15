@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TropicalDog17
 - 🌱 I’m currently learning CS major at Hanoi University of Science and Technology.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m interested in Blockchain, Distributed Programming and Quantitative research
 - 📫 How to reach me:
   
 
