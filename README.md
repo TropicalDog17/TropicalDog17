@@ -2,7 +2,10 @@
 - 🌱 I’m currently learning CS major at Hanoi University of Science and Technology.
 - 💞️ I’m interested in Blockchain and Distributed Programming
 - 📫 How to reach me:
-  
+
+  Telegram: tropicaldog17
+  Discord: tropicaldog
+  Twitter: TropicalDog2
 
 <!---
 TropicalDog17/TropicalDog17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
