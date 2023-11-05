@@ -7,7 +7,7 @@
 
   + Telegram: tropicaldog17
   + Discord: tropicaldog
-  + Twitter: ![TropicalDog2](https://twitter.com/TropicalDog2)
+  + Twitter: [TropicalDog2](https://twitter.com/TropicalDog2)
 
 <!---
 TropicalDog17/TropicalDog17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
