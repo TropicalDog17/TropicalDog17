@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=TropicalDog17&color=green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicalDog17&hide=javascript,typescript,html,clojure,java,ruby)](https://github.com/TropicalDog17/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TropicalDog17&hide=typescript,html,java,clojure,tex,css,ruby)](https://github.com/TropicalDog17/github-readme-stats)
 
 - 👋 Hi, I’m @TropicalDog17
 - 🌱 I’m currently learning CS major at Hanoi University of Science and Technology.
